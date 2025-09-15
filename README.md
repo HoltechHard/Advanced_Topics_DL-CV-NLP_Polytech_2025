@@ -1,4 +1,4 @@
-# Speciality Advanced Topics of DL, CV and NLP
+# Specialized Seminars on Advanced Topics about DL, CV and NLP
 
 ### Main Goals of Course  
   
