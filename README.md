@@ -24,24 +24,26 @@ Link: https://drive.google.com/drive/folders/1PkektB2-bDuIoqYPiOHn7hhWKSOO_OlT?u
    
 ### Lesson 01 - Introduction to Fundamentals of Artificial Intelligence  
 ------------------------------------------------------------------------  
-  
-**Title:**  Date - 08-20/09  
+
+**Date: 08-20/09/2025**   
+   
+**Title:**   
 Historical Evolution of Artificial Intelligence: From Neural Networks until LLM   
   
-**Topics:**  
-1) AI Ecosystem  
-2) Introductory principles to Deep Learning  
+**Topics:**   
+1) AI Ecosystem   
+2) Introductory principles to Deep Learning   
 3) Main idea under Neural Nets, Transformers and Attention  
 4) Object of study of Machine Learning and Deep Learning  
   
 **Laboratory:**    
-1) Install of python, pip, python packages and git 
-2) Settings for python environment
-3) Use case: Data Analysis - Customer Personality and Preferences
-
-**Homework:**  
-- Read the slides in the file conference-ai-06-09-2024.pdf and do some more research by your own about the topics covered in the week 01.  
-- In a brief 1-page summary (in English pdf format), redact what you understood from the first class and select from the list of AI subfields described in slide #06, the topic which you think it's the most interesting for you and what previous knowledge and experience you have with this topic and expectations that you have related to what you will learn in our course.  
-- Define groups of 4 students and send the group list to leader of group. 
+1) Install of python, pip, python packages and git  
+2) Settings for python environment  
+3) Use case: Data Analysis - Customer Personality and Preferences  
+  
+**Homework:**   
+- Read the slides in the file conference-ai-06-09-2024.pdf and do some more research by your own about the topics covered in the week 01;   
+- In a brief 1-page summary (in English pdf format), redact what you understood from the first class and select from the list of AI subfields described in slide #06, the topic which you think it's the most interesting for you and what previous knowledge and experience you have with this topic and expectations that you have related to what you will learn in our course;  
+- Define groups of 4 students and send the group list to leader of group;   
 - Prepare 1 unique report (in PDF format) which compiles the summary of thematic *Historical Evolution of Artificial Intelligence: From Neural Networks until LLM* from perspective from each student.  
    
