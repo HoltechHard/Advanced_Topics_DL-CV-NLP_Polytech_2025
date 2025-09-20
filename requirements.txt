@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+scikit-learn
+ipykernel
+torch==2.5.1
+tensorflow
+transformers
+datasets
+folium
