@@ -1,0 +1,23 @@
+================================================
+|       SET OF COMMANDS TO EXECUTE PROJECTS    |
+================================================
+
+1) create python environment 
+
+$ python -m venv dl_env
+
+2) activate the environment
+
+$ .\dl_env\Scripts\activate
+
+3) create file requirements.txt and add all the names of 
+   packages and their versions 
+
+4) install all the required libraries
+
+$ pip install -r requirements.txt
+
+5) check if all libraries are installed correctly
+
+$ pip list 
+

@@ -1,0 +1,22 @@
+====================================================
+|       START INSTRUCTIONS TO WORK WITH PYTHON     |
+====================================================
+
+1) Install python version 3.12
+
+URL: https://www.python.org/downloads/ 
+
+observation: activate the option to install pip 
+
+2) After install python, modify the environment variables on windows OS
+
+System Properties > Advanced > Environment Variables > System Variables > Path
+
+3) Add new environment variables and copy the python root installed 
+
+C:\Python312\
+C:\Python312\Scripts\
+
+4) Open new terminal and write the command to check the python version installed
+
+$ python --version

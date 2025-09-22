@@ -1,0 +1,31 @@
+==============================================
+|       SET OF COMMAND TO START WITH GIT     |
+==============================================
+
+1) install git CMD 
+
+URL: https://git-scm.com/downloads/win 
+
+2) take position in the root path of your project 
+
+> D:
+> D:\POLYTECH_2025_II\Specialized_Topics_DL\labs_dl
+
+2) create github repo
+
+$ echo "# Advanced_Topics_DL-CV-NLP_Polytech_2025" >> README.md 
+$ git init
+$ git remote add origin https://github.com/HoltechHard/Advanced_Topics_DL-CV-NLP_Polytech_2025.git
+
+3) push 1st version of project
+
+$ git add README.md 
+$ git commit -m "project description"
+$ git push origin master
+
+4) pull/push updated versions in repo
+
+$ git add <name folder/file>
+$ git commit -m "<commit_message>"
+$ git pull origin master
+$ git push origin master
